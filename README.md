@@ -1,10 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Gajendra%20Todkar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img src="https://raw.githubusercontent.com/gajendra/gajendra/master/header.svg" width="100%" />
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=GajendraTodkar">
-    <img src="https://komarev.com/ghpvc/?username=GajendraTodkar&label=Profile%20views&color=00FFFF&style=flat-square" alt="GajendraTodkar's profile views" />
-  </a>
-</p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
