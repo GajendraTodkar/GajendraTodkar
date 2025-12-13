@@ -1,0 +1,46 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="220"
+  viewBox="0 0 1200 220"
+  role="img"
+  aria-label="Gajendra Todkar GitHub Header">
+
+  <!-- Gradient (similar to capsule-render) -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4158D0"/>
+      <stop offset="50%" stop-color="#C850C0"/>
+      <stop offset="100%" stop-color="#FFCC70"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Rounded top + subtle wave -->
+  <path
+    fill="url(#grad)"
+    d="
+      M30 0
+      H1170
+      Q1200 0 1200 30
+      V150
+      C900 175 300 165 0 170
+      V30
+      Q0 0 30 0
+      Z
+    "
+  />
+
+  <!-- Main text -->
+  <text
+    x="600"
+    y="105"
+    text-anchor="middle"
+    dominant-baseline="middle"
+    font-family="Segoe UI, Helvetica, Arial, sans-serif"
+    font-size="48"
+    font-weight="700"
+    fill="#ffffff">
+    Gajendra Todkar
+  </text>
+
+</svg>
