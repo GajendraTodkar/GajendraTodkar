@@ -1,32 +1,40 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Gajendra%20Todkar&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Gajendra Todkar">
-    <img src="https://komarev.com/ghpvc/?username=Gajendra Todkar&label=Profile%20views&color=00FFFF&style=flat-square" alt="Gajendra Todkar's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=GajendraTodkar">
+    <img src="https://komarev.com/ghpvc/?username=GajendraTodkar&label=Profile%20views&color=00FFFF&style=flat-square" alt="GajendraTodkar's profile views" />
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gajendra Todkar&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Gajendra Todkar's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=Gajendra Todkar&theme=radical&hide_border=true&cache_seconds=86400" alt="Gajendra Todkar's GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GajendraTodkar&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GajendraTodkar's GitHub Stats" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gajendra Todkar&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Gajendra Todkar's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Gajendra Todkar&theme=radical&radius=10" alt="Gajendra Todkar's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GajendraTodkar&theme=radical&radius=10" alt="GajendraTodkar's Activity Graph" />
 </p>
 
 
 ## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gajendra Todkar&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
+
+## 🔗 Connect with Me
+<p align="center"><a href="in/gajendratodkar" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/918087143302" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:todkar.gajendra@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
   <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
 </picture>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
 
