@@ -2,9 +2,7 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GajendraTodkar&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="GajendraTodkar's GitHub Stats" width="49%" />
-</p>
+
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GajendraTodkar&theme=radical&radius=10" alt="GajendraTodkar's Activity Graph" />
 </p>
