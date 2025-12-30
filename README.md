@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/gajendra/gajendra/master/header.svg" width="100%" />
+
 
 
 ## 📊 GitHub Stats & Trophies
