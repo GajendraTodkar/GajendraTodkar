@@ -20,14 +20,14 @@ A visual representation of my coding activity and contribution trends.
 
 
 > ## Database
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
       <br />
       <sub><b>MySQL</b></sub>
     </td>
-    <td align="center">
+    <td align="center" style="border: none;>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQL Server" />
       <br />
       <sub><b>SQL Server</b></sub>
@@ -37,8 +37,25 @@ A visual representation of my coding activity and contribution trends.
 
 
 > ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
-
+<table border="0">
+  <tr>
+    <td align="center" style="border: none;>
+      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/excel.svg" width="50" height="50" alt="Excel" />
+      <br />
+      <sub><b>Excel</b></sub>
+    </td>
+    <td align="center" style="border: none;>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
+      <br />
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" style="border: none; padding-left: 20px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" width="50" height="50" alt="Power BI" />
+      <br />
+      <sub><b>Power BI</b></sub>
+      </td>
+  </tr>
+</table>
 
 
 ## 🔗 Connect with Me
