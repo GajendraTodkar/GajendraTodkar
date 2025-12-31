@@ -8,6 +8,11 @@ A visual representation of my coding activity and contribution trends.
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GajendraTodkar&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&radius=10" alt=" Activity Graph" />
 </p>
 
+<br/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GajendraTodkar&show_icons=true&title_color=f2c811&icon_color=0078d4&text_color=ffffff&bg_color=0b1117&hide_border=true&count_private=true" alt="GajendraTodkar's GitHub Stats" />
+</p>
+
 
 ## 🛠️ Languages & Tools
 
