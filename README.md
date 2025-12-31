@@ -22,12 +22,12 @@ A visual representation of my coding activity and contribution trends.
 > ## Database
 <table border="0">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
       <br />
       <sub><b>MySQL</b></sub>
     </td>
-    <td align="center" style="border: none;>
+    <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQL Server" />
       <br />
       <sub><b>SQL Server</b></sub>
@@ -39,12 +39,12 @@ A visual representation of my coding activity and contribution trends.
 > ## Tools
 <table border="0">
   <tr>
-    <td align="center" style="border: none;>
+    <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/excel.svg" width="50" height="50" alt="Excel" />
       <br />
       <sub><b>Excel</b></sub>
     </td>
-    <td align="center" style="border: none;>
+    <td align="center" style="border: none;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
       <br />
       <sub><b>VS Code</b></sub>
