@@ -11,7 +11,7 @@ A visual representation of my coding activity and contribution trends.
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GajendraTodkar&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&radius=10" alt="GajendraTodkar's Activity Graph" />
   
-  <img height="280em" src="https://github-readme-stats.vercel.app/api?username=GajendraTodkar&show_icons=true&theme=tokyonight&count_private=true" />
+  
 </p>
 
 
@@ -20,10 +20,7 @@ A visual representation of my coding activity and contribution trends.
 
 
 > ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="48" height="48" style="margin: 4px;"/>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45">MySQLSQL Server
 
 
 
