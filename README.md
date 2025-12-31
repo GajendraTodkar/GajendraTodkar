@@ -8,9 +8,7 @@ A visual representation of my coding activity and contribution trends.
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GajendraTodkar&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&radius=10" alt=" Activity Graph" />
 
 
-<br/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GajendraTodkar&layout=compact&langs_count=6&theme=transparent&title_color=f2c811&text_color=ffffff&bg_color=0b1117&hide_border=true" />
   </p>
 
 
