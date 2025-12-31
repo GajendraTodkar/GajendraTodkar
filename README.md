@@ -4,7 +4,7 @@
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GajendraTodkar&theme=material-palenight&radius=10" alt="GajendraTodkar's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GajendraTodkar&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&radius=10" alt="GajendraTodkar's Activity Graph" />
 </p>
 
 
