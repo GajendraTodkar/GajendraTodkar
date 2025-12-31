@@ -10,7 +10,7 @@ A visual representation of my coding activity and contribution trends.
 
 <br/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GajendraTodkar&show_icons=true&title_color=f2c811&icon_color=58a6ff&text_color=ffffff&bg_color=0b1117&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GajendraTodkar&layout=compact&langs_count=6&theme=transparent&title_color=f2c811&text_color=ffffff&bg_color=0b1117&hide_border=true" />
   </p>
 
 
