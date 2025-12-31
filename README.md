@@ -1,10 +1,11 @@
 
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Analytics
+A visual representation of my coding activity and contribution trends.
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GajendraTodkar&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&radius=10" alt="GajendraTodkar's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GajendraTodkar&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&radius=10" alt=" Activity Graph" />
 </p>
 
 
