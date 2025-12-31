@@ -9,12 +9,11 @@
 ## 📊 GitHub Analytics
 A visual representation of my coding activity and contribution trends.
 
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GajendraTodkar&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&radius=10" alt=" Activity Graph" />
-  </p>
 
 
-## 🛠️ Languages & Tools
+
+> ## 🛠️ Languages & Tools
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
 
 > ## Database
 <p align="center"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
