@@ -1,7 +1,10 @@
-# 👋 Hi, I'm [Gajendra Todkar]
-### Data Engineer | SQL Specialist | Power BI Enthusiast 
+<div align="center">
+
+# 👋 Hi, I'm Gajendra Todkar
+### SQL Developer Aspirant | Data Engineering Enthusiast 
 
 ---
+</div>
 
 ## 📊 GitHub Analytics
 A visual representation of my coding activity and contribution trends.
