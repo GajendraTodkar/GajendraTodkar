@@ -17,8 +17,8 @@ A visual representation of my coding activity and contribution trends.
 ## 🛠️ Languages & Tools
 
 > ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+<p align="center"><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)" alt="MySQL" width="48" height="48" style="margin: 4px;" /></p>
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 > ## Tools
