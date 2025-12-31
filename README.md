@@ -20,8 +20,20 @@ A visual representation of my coding activity and contribution trends.
 
 
 > ## Database
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" height="45">MySQLSQL Server
-
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+      <br />
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQL Server" />
+      <br />
+      <sub><b>SQL Server</b></sub>
+    </td>
+  </tr>
+</table>
 
 
 > ## Tools
