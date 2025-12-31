@@ -10,8 +10,8 @@ A visual representation of my coding activity and contribution trends.
 
 <br/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GajendraTodkar&show_icons=true&title_color=f2c811&icon_color=0078d4&text_color=ffffff&bg_color=0b1117&hide_border=true&count_private=true" alt="GajendraTodkar's GitHub Stats" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GajendraTodkar&show_icons=true&title_color=f2c811&icon_color=58a6ff&text_color=ffffff&bg_color=0b1117&hide_border=true&count_private=true" />
+  </p>
 
 
 ## 🛠️ Languages & Tools
