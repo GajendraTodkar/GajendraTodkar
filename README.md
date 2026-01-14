@@ -17,32 +17,9 @@ A visual representation of my coding activity and contribution trends.
 
 > ## Database
 
-
-  <tr>
-    <td align="center">
-      <kbd>
-        <br />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-        <br />
-        <sub><b>MySQL</b></sub>
-        <br />
-      </kbd>
-    </td>
-    <td align="center">
-      <kbd>
-        <br />
-        <img src="./icons/sql-server.svg" width="50" height="50" alt="SQL Server" />
-        <br />
-        <sub><b>SQL Server</b></sub>
-        <br />
-      </kbd>
-    </td>
-  </tr>
-
-
 <p align="left">
   <kbd> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" align="center" />
     <br />
     <sub><b>MySQL</b></sub>
   </kbd>
