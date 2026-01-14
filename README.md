@@ -27,7 +27,7 @@ A visual representation of my coding activity and contribution trends.
   <kbd>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQL Server" />
     <br />
-    <sub align="left"><b>SQL Server</b></sub>
+    <sub align="center"><b>SQL Server</b></sub>
   </kbd>
 </p>
 
