@@ -10,21 +10,17 @@
 A visual representation of my coding activity and contribution trends.
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GajendraTodkar&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&radius=10" alt="GajendraTodkar's Activity Graph" />
-  
-  
 </p>
 
 
-
 ## 🛠️ Languages & Tools
-
 
 > ## Database
 <p align="left">
   <kbd> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
     <br />
-    <div align="center"><sub><b>MySQL</b></sub>
+    <sub>align="center"<b>MySQL</b></sub>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
