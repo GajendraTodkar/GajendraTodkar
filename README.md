@@ -50,7 +50,7 @@ A visual representation of my coding activity and contribution trends.
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="50" height="50" alt="Power BI" />
+    <img src="https://github.com/GajendraTodkar/GajendraTodkar.github.io/blob/main/assets/logo/power-bi-2021.svg" width="50" height="50" alt="Power BI" />
     <br />
     <sub><b>Power BI</b></sub>
   </kbd>
