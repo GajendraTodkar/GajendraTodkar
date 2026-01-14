@@ -17,7 +17,7 @@ A visual representation of my coding activity and contribution trends.
 
 > ## Database
 
-<table>
+
   <tr>
     <td align="center">
       <kbd>
@@ -38,7 +38,8 @@ A visual representation of my coding activity and contribution trends.
       </kbd>
     </td>
   </tr>
-</table> 
+
+
 <p align="left">
   <kbd> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
