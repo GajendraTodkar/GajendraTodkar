@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Gajendra Todkar
-### SQL Developer Aspirant | Data Engineering Enthusiast 
+### Aspirant SQL Developer | Data Engineering Enthusiast 
 
 ---
 </div>
