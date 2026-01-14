@@ -38,7 +38,7 @@ A visual representation of my coding activity and contribution trends.
 > ## Tools
 <p align="left">
   <kbd>
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/excel.svg" width="50" height="50" alt="Excel" />
+    <img src="https://github.com/GajendraTodkar/GajendraTodkar.github.io/blob/main/assets/logo/microsoft-excel-2013.svg" width="50" height="50" alt="Excel" />
     <br />
     <sub><b>Excel</b></sub>
   </kbd>
