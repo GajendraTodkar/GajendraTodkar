@@ -21,13 +21,13 @@ A visual representation of my coding activity and contribution trends.
 
 > ## Database
 <p align="left">
-  <kbd>
+  <kbd> <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
     <br />
     <sub><b>MySQL</b></sub>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
+  <kbd><div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQL Server" />
     <br />
     <sub><b>SQL Server</b></sub>
@@ -37,19 +37,19 @@ A visual representation of my coding activity and contribution trends.
 
 > ## Tools
 <p align="left">
-  <kbd>
+  <kbd><div align="center">
     <img src="https://github.com/GajendraTodkar/GajendraTodkar.github.io/blob/main/assets/logo/microsoft-excel-2013.svg" width="50" height="50" alt="Excel" />
     <br />
     <sub><b>Excel</b></sub>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
+  <kbd><div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" />
     <br />
     <sub><b>VS Code</b></sub>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
+  <kbd><div align="center">
     <img src="https://github.com/GajendraTodkar/GajendraTodkar.github.io/blob/main/assets/logo/power-bi-2021.svg" width="50" height="50" alt="Power BI" />
     <br />
     <sub><b>Power BI</b></sub>
