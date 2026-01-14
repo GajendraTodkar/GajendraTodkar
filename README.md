@@ -18,9 +18,10 @@ A visual representation of my coding activity and contribution trends.
 > ## Database
 <p align="left">
   <kbd> 
+    <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
     <br />
-    <sub>align="center"<b>MySQL</b></sub>
+    <sub><b>MySQL</b></sub></p>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
