@@ -24,7 +24,7 @@ A visual representation of my coding activity and contribution trends.
   <kbd> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
     <br />
-    <sub><b>MySQL</b></sub>
+    <div align="center"><sub><b>MySQL</b></sub>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
