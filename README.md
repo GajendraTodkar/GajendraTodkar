@@ -21,13 +21,13 @@ A visual representation of my coding activity and contribution trends.
   <kbd> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"  />
     <br />
-    <sub align="center"><b>MySQL</b></sub>
+    <sub><b>MySQL</b></sub>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQL Server" />
     <br />
-    <sub align="center"><b>SQL Server</b></sub>
+    <sub><b>SQL Server</b></sub>
   </kbd>
 </p>
 
