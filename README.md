@@ -17,19 +17,23 @@ A visual representation of my coding activity and contribution trends.
 
 > ## Database
 
-<p align="left">
-  <kbd> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"  />
+<kbd>
+  <div align="center" style="width: 80px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" />
     <br />
-    <div align="center"><sub><b>MySQL</b></sub></div>
-  </kbd>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQL Server" />
+    <sub><b>MySQL</b></sub>
+  </div>
+</kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<kbd>
+  <div align="center" style="width: 80px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" />
     <br />
     <sub><b>SQL Server</b></sub>
-  </kbd>
-</p>
+  </div>
+</kbd>
+
+
 
 
 > ## Tools
@@ -55,7 +59,10 @@ A visual representation of my coding activity and contribution trends.
 
 
 ## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/gajendratodkar" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/918087143302" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:todkar.gajendra@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/gajendratodkar" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a>&nbsp;&nbsp;
+<a href="https://wa.me/918087143302" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a>&nbsp;&nbsp;
+<a href="mailto:todkar.gajendra@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
