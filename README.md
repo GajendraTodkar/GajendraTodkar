@@ -18,17 +18,17 @@ A visual representation of my coding activity and contribution trends.
 > ## Database
 <p align="left">
   <kbd> 
-    <p align="center">
+   
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
     <br />
-    <sub><b>MySQL</b></sub></p>
+    <sub><b>MySQL</b></sub>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
-    <p align="center">
+    
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="50" height="50" alt="SQL Server" />
     <br />
-    <sub><b>SQL Server</b></sub></p>
+    <sub><b>SQL Server</b></sub>
   </kbd>
 </p>
 
