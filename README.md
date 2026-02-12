@@ -38,7 +38,7 @@ A visual representation of my coding activity and contribution trends.
   <div align="center" style="width: 80px;">
     <img src="https://github.com/GajendraTodkar/GajendraTodkar.github.io/blob/main/asset/images/icon/postgresql-color.svg" width="50" height="50" />
     <br />
-    <sub><b>Postgre SQL</b></sub>
+    <sub align="center"><b>Postgre SQL</b></sub>
   </div>
 </kbd>
 
