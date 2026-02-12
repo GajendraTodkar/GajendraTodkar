@@ -46,7 +46,7 @@ A visual representation of my coding activity and contribution trends.
 
 
 > ## Tools
-<p align="center">
+<p align="left">
   <kbd>
     <img src="https://github.com/GajendraTodkar/GajendraTodkar.github.io/blob/main/asset/images/icon/excel-color.svg" width="50" height="50" alt="Excel" />
     <br />
