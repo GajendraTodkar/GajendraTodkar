@@ -72,7 +72,7 @@ A visual representation of my coding activity and contribution trends.
 <p align="center">
 <a href="https://www.linkedin.com/in/gajendratodkar" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a>&nbsp;&nbsp;
 <a href="https://wa.me/918087143302" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a>&nbsp;&nbsp;
-<a href="mailto:todkar.gajendra@gmail.com" target="_blank"><img src="https://github.com/GajendraTodkar/GajendraTodkar.github.io/blob/main/assets/logo/gmail_icon-icons.com_62758.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<a href="mailto:todkar.gajendra@gmail.com" target="_blank"><img src="https://github.com/GajendraTodkar/GajendraTodkar.github.io/blob/main/asset/images/icon/gmail_icon-color.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
