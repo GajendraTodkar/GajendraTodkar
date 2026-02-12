@@ -47,10 +47,10 @@ A visual representation of my coding activity and contribution trends.
 
 > ## Tools
 <p align="left">
-  <kbd>
+  <kbd>  <div align="center" style="width: 80px;">
     <img src="https://github.com/GajendraTodkar/GajendraTodkar.github.io/blob/main/asset/images/icon/excel-color.svg" width="50" height="50" alt="Excel" />
     <br />
-    <sub><b>Excel</b></sub>
+    <sub><b>Excel</b></sub></div>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
