@@ -33,6 +33,14 @@ A visual representation of my coding activity and contribution trends.
     <sub><b>SQL Server</b></sub>
   </div>
 </kbd>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<kbd>
+  <div align="center" style="width: 80px;">
+    <img src="https://github.com/GajendraTodkar/GajendraTodkar.github.io/blob/main/asset/images/icon/postgresql-color.svg" width="50" height="50" />
+    <br />
+    <sub><b>Postgre SQL</b></sub>
+  </div>
+</kbd>
 
 
 
