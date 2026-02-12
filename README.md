@@ -42,15 +42,12 @@ A visual representation of my coding activity and contribution trends.
   </div>
 </kbd>
 
-
-
-
 > ## Tools
 
   <kbd> <div align="center" style="width: 80px;">
       <img src="https://github.com/GajendraTodkar/GajendraTodkar.github.io/blob/main/asset/images/icon/excel-color.svg" width="50" height="50" alt="Excel" />
       <br />
-      <sub><b>VS Code</b></sub> </div>
+      <sub><b>MS Excel</b></sub> </div>
   </kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <kbd> <div align="center" style="width: 80px;">
